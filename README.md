@@ -20,4 +20,4 @@ document.addEventListener("DOMContentLoaded",()=>{
   });
 })
 ```
-### Now run your application and your application is ready
+### Now run your website or your application is ready
