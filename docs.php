@@ -76,6 +76,8 @@
                 <div class="section intro">
                     <h1>Lite SPA - Single Page Application (SPA) Framework</h1>
                     <p>A simple framework for building single-page applications with dynamic content loading.</p>
+                    <br>
+                    <p><a href="https://github.com/ShoaibShokat03/lite-spa" download="lite-spa" target="_blank" redirect="true">Download</a> </p>
                 </div>
                 <div class="section">
                     <h2>Overview</h2>
@@ -239,6 +241,8 @@
         </div>
     </div>
 
+    <!-- Lite SPA Script -->
+    <script type="module" main="main" src="./_lite_spa/main.js"></script>
     <script>
         // JavaScript to handle code copying and show success message
         document.querySelectorAll('.copy-btn').forEach(button => {

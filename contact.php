@@ -168,6 +168,7 @@
                             <a href="https://wa.me/+923011840378" class="whtsapp" redirect="true" target="_blank">
                                 <span>WhatsApp</span>
                             </a>
+                            <a href="https://github.com/ShoaibShokat03" class="nav-link active">Git Hub</a>
                         </div>
                     </div>
                 </div>

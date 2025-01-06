@@ -116,7 +116,7 @@
                             Explore the sections below for a deep dive!
                         </p>
                         <br>
-                        <p><a href="./docs.php">Documentation</a> <a href="./download.php">Download</a></p>
+                        <p><a href="./docs.php">Documentation</a> <a href="https://github.com/ShoaibShokat03/lite-spa" download="lite-spa" target="_blank" redirect="true">Download</a></p>
                     </div>
                 </div>
 

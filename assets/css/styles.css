@@ -96,6 +96,10 @@
      flex-wrap: wrap;
      gap: 15px;
  }
+ .nav-link.active{
+    background-color: chocolate;
+    color: white;
+ }
 
  .heading {
      padding: 5px 20px;
