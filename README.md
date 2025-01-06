@@ -11,11 +11,13 @@ This is lite weight single page application library that can convert your entire
 ```
 import LiteSAPHandler from "./LiteSPAHandler.js";
 
-// Example usage
+document.addEventListener("DOMContentLoaded",()=>{
+  // Example usage
 const spa = new LiteSAPHandler({
   baseUrl: "http://localhost/spa/",  //your website or app main base url
   rootSelector: ".root",            // your root element where dynamic pages will be render
   handleForms: true,               //  Handle form submition with LiteSPA or make it false
-});```
-
-  ### Now run your application and your application is ready
+});
+})
+```
+### Now run your application and your application is ready
